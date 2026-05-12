@@ -329,8 +329,8 @@ Support this project with a :star:
 <!-- AUTO-DOC-INPUT:START - Do not remove or modify this section -->
 
 ```yaml
-- uses: tj-actions/changed-files@9426d40962ed5378910ee2e21d5f8c6fcbf2dd96 # v47.0.6
-  id: changed-files
+- uses: metacore-games/changed-files-action@ # 
+  id: changed-files-action
   with:
     # Github API URL.
     # Type: string
